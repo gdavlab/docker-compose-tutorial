@@ -18,7 +18,7 @@ Follow these steps to get your development environment up and running.
 
 1. Clone the repository
 2. Enter in the project
-  `cd docker-tutorial`
+  `cd docker-compose-tutorial`
 3. Run the project
   `docker-compose up --build`
 
